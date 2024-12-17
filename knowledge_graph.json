@@ -1,0 +1,655 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "label": "Thuế suất",
+            "size": 10,
+            "id": "Thuế suất"
+        },
+        {
+            "label": "Thu nhập cá nhân",
+            "size": 10,
+            "id": "Thu nhập cá nhân"
+        },
+        {
+            "label": "Thuế thu nhập cá nhân",
+            "size": 10,
+            "id": "Thuế thu nhập cá nhân"
+        },
+        {
+            "label": "Phương pháp lũy tiến",
+            "size": 10,
+            "id": "Phương pháp lũy tiến"
+        },
+        {
+            "label": "Biểu thuế lũy tiến từng phần",
+            "size": 10,
+            "id": "Biểu thuế lũy tiến từng phần"
+        },
+        {
+            "label": "Thu nhập tính thuế từ hoạt động đầu tư",
+            "size": 10,
+            "id": "Thu nhập tính thuế từ hoạt động đầu tư"
+        },
+        {
+            "label": "5%",
+            "size": 10,
+            "id": "5%"
+        },
+        {
+            "label": "2%",
+            "size": 10,
+            "id": "2%"
+        },
+        {
+            "label": "10%",
+            "size": 10,
+            "id": "10%"
+        },
+        {
+            "label": "Biểu thuế",
+            "size": 10,
+            "id": "Biểu thuế"
+        },
+        {
+            "label": "2 dạng",
+            "size": 10,
+            "id": "2 dạng"
+        },
+        {
+            "label": "Thuế",
+            "size": 10,
+            "id": "Thuế"
+        },
+        {
+            "label": "Nộp",
+            "size": 10,
+            "id": "Nộp"
+        },
+        {
+            "label": "5 triệu",
+            "size": 10,
+            "id": "5 triệu"
+        },
+        {
+            "label": "10 triệu",
+            "size": 10,
+            "id": "10 triệu"
+        },
+        {
+            "label": "Thu nhập tính thuế",
+            "size": 10,
+            "id": "Thu nhập tính thuế"
+        },
+        {
+            "label": "Thu nhập phải chịu thuế – các khoản giảm trừ",
+            "size": 10,
+            "id": "Thu nhập phải chịu thuế – các khoản giảm trừ"
+        },
+        {
+            "label": "Mức thuế thu nhập cá nhân",
+            "size": 10,
+            "id": "Mức thuế thu nhập cá nhân"
+        },
+        {
+            "label": "140 triệu",
+            "size": 10,
+            "id": "140 triệu"
+        },
+        {
+            "label": "130 triệu",
+            "size": 10,
+            "id": "130 triệu"
+        },
+        {
+            "label": "1 tỷ 9",
+            "size": 10,
+            "id": "1 tỷ 9"
+        },
+        {
+            "label": "Phần giá trị giải thưởng vượt trên 10 triệu đồng",
+            "size": 10,
+            "id": "Phần giá trị giải thưởng vượt trên 10 triệu đồng"
+        },
+        {
+            "label": "Phần giá trị tiền thưởng vượt trên 10 triệu đồng",
+            "size": 10,
+            "id": "Phần giá trị tiền thưởng vượt trên 10 triệu đồng"
+        },
+        {
+            "label": "10.000.000 đồng",
+            "size": 10,
+            "id": "10.000.000 đồng"
+        },
+        {
+            "label": "Thu nhập từ đầu tư vốn",
+            "size": 10,
+            "id": "Thu nhập từ đầu tư vốn"
+        },
+        {
+            "label": "Thu nhập",
+            "size": 10,
+            "id": "Thu nhập"
+        },
+        {
+            "label": "Trúng thưởng",
+            "size": 10,
+            "id": "Trúng thưởng"
+        },
+        {
+            "label": "Thừa kế",
+            "size": 10,
+            "id": "Thừa kế"
+        },
+        {
+            "label": "Tiền lương cá nhân",
+            "size": 10,
+            "id": "Tiền lương cá nhân"
+        },
+        {
+            "label": "Công thức số (3",
+            "size": 10,
+            "id": "Công thức số (3"
+        },
+        {
+            "label": "Thu nhập phải chịu thuế",
+            "size": 10,
+            "id": "Thu nhập phải chịu thuế"
+        },
+        {
+            "label": "... đồng",
+            "size": 10,
+            "id": "... đồng"
+        },
+        {
+            "label": "12 triệu đồng/tháng",
+            "size": 10,
+            "id": "12 triệu đồng/tháng"
+        },
+        {
+            "label": "[a] đồng",
+            "size": 10,
+            "id": "[a] đồng"
+        },
+        {
+            "label": "100 triệu",
+            "size": 10,
+            "id": "100 triệu"
+        },
+        {
+            "label": "50 triệu",
+            "size": 10,
+            "id": "50 triệu"
+        },
+        {
+            "label": "Tỷ lệ sở hữu",
+            "size": 10,
+            "id": "Tỷ lệ sở hữu"
+        },
+        {
+            "label": "Lãi trái phiếu",
+            "size": 10,
+            "id": "Lãi trái phiếu"
+        },
+        {
+            "label": "Bất động sản",
+            "size": 10,
+            "id": "Bất động sản"
+        },
+        {
+            "label": "Tncn",
+            "size": 10,
+            "id": "Tncn"
+        },
+        {
+            "label": "Điều 1",
+            "size": 10,
+            "id": "Điều 1"
+        },
+        {
+            "label": "Mức giảm trừ gia cảnh",
+            "size": 10,
+            "id": "Mức giảm trừ gia cảnh"
+        },
+        {
+            "label": "Mức giảm trừ",
+            "size": 10,
+            "id": "Mức giảm trừ"
+        },
+        {
+            "label": "Đối tượng nộp thuế",
+            "size": 10,
+            "id": "Đối tượng nộp thuế"
+        },
+        {
+            "label": "Người",
+            "size": 10,
+            "id": "Người"
+        },
+        {
+            "label": "11 triệu đồng/tháng",
+            "size": 10,
+            "id": "11 triệu đồng/tháng"
+        },
+        {
+            "label": "Thuế tncn",
+            "size": 10,
+            "id": "Thuế tncn"
+        },
+        {
+            "label": "Thu nhập tính thuế x thuế suất",
+            "size": 10,
+            "id": "Thu nhập tính thuế x thuế suất"
+        },
+        {
+            "label": "15% thu nhập tính thuế",
+            "size": 10,
+            "id": "15% thu nhập tính thuế"
+        },
+        {
+            "label": "Đồng",
+            "size": 10,
+            "id": "Đồng"
+        },
+        {
+            "label": "Bản quyền nhượng quyền thương mại",
+            "size": 10,
+            "id": "Bản quyền nhượng quyền thương mại"
+        },
+        {
+            "label": "Thuế từ chuyển nhượng bất động sản",
+            "size": 10,
+            "id": "Thuế từ chuyển nhượng bất động sản"
+        },
+        {
+            "label": "Hộ kinh doanh",
+            "size": 10,
+            "id": "Hộ kinh doanh"
+        },
+        {
+            "label": "2000000",
+            "size": 10,
+            "id": "2000000"
+        },
+        {
+            "label": "Thừa kế quà tặng",
+            "size": 10,
+            "id": "Thừa kế quà tặng"
+        }
+    ],
+    "links": [
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "Thu nhập cá nhân"
+        },
+        {
+            "label": "Cần đóng",
+            "title": "Cần đóng",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "Thuế thu nhập cá nhân"
+        },
+        {
+            "label": "Áp dụng",
+            "title": "Áp dụng",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "Phương pháp lũy tiến"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "Biểu thuế lũy tiến từng phần"
+        },
+        {
+            "label": "Áp dụng cho",
+            "title": "Áp dụng cho",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "Thu nhập tính thuế từ hoạt động đầu tư"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "5%"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "2%"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "10%"
+        },
+        {
+            "label": "Và",
+            "title": "Và",
+            "width": 1,
+            "source": "Thuế suất",
+            "target": "Thu nhập tính thuế"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập cá nhân",
+            "target": "Thuế"
+        },
+        {
+            "label": "Chia làm",
+            "title": "Chia làm",
+            "width": 1,
+            "source": "Biểu thuế lũy tiến từng phần",
+            "target": "Thuế"
+        },
+        {
+            "label": "Có thuế suất",
+            "title": "Có thuế suất",
+            "width": 1,
+            "source": "5%",
+            "target": "Thu nhập tính thuế"
+        },
+        {
+            "label": "Có thuế suất",
+            "title": "Có thuế suất",
+            "width": 1,
+            "source": "5%",
+            "target": "Thu nhập từ đầu tư vốn"
+        },
+        {
+            "label": "Chia làm",
+            "title": "Chia làm",
+            "width": 1,
+            "source": "Biểu thuế",
+            "target": "2 dạng"
+        },
+        {
+            "label": "Thu nhập cá nhân",
+            "title": "Thu nhập cá nhân",
+            "width": 1,
+            "source": "Thuế",
+            "target": "Nộp"
+        },
+        {
+            "label": "Tính trên",
+            "title": "Tính trên",
+            "width": 1,
+            "source": "Thuế",
+            "target": "5 triệu"
+        },
+        {
+            "label": "Tính trên",
+            "title": "Tính trên",
+            "width": 1,
+            "source": "Thuế",
+            "target": "10 triệu"
+        },
+        {
+            "label": "Tính thuế trên",
+            "title": "Tính thuế trên",
+            "width": 1,
+            "source": "5 triệu",
+            "target": "Thu nhập"
+        },
+        {
+            "label": "Tính thuế trên",
+            "title": "Tính thuế trên",
+            "width": 1,
+            "source": "10 triệu",
+            "target": "Thu nhập"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "Thu nhập phải chịu thuế – các khoản giảm trừ"
+        },
+        {
+            "label": "Sẽ tính",
+            "title": "Sẽ tính",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "Mức thuế thu nhập cá nhân"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "140 triệu"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "130 triệu"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "1 tỷ 9"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "Phần giá trị giải thưởng vượt trên 10 triệu đồng"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "Phần giá trị tiền thưởng vượt trên 10 triệu đồng"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập tính thuế",
+            "target": "10.000.000 đồng"
+        },
+        {
+            "label": "Từ",
+            "title": "Từ",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "Trúng thưởng"
+        },
+        {
+            "label": "Từ",
+            "title": "Từ",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "Thừa kế"
+        },
+        {
+            "label": "Được miễn thuế",
+            "title": "Được miễn thuế",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "Tiền lương cá nhân"
+        },
+        {
+            "label": "Phải chịu thuế theo",
+            "title": "Phải chịu thuế theo",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "Công thức số (3"
+        },
+        {
+            "label": "Tính thuế",
+            "title": "Tính thuế",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "Thu nhập phải chịu thuế"
+        },
+        {
+            "label": "Tính thuế",
+            "title": "Tính thuế",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "... đồng"
+        },
+        {
+            "label": "Tổng",
+            "title": "Tổng",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "12 triệu đồng/tháng"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "[a] đồng"
+        },
+        {
+            "label": "Tính thuế",
+            "title": "Tính thuế",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "100 triệu"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "50 triệu"
+        },
+        {
+            "label": "Tính thuế",
+            "title": "Tính thuế",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "Tỷ lệ sở hữu"
+        },
+        {
+            "label": "Nhận được từ",
+            "title": "Nhận được từ",
+            "width": 1,
+            "source": "Thu nhập",
+            "target": "Lãi trái phiếu"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thừa kế",
+            "target": "Bất động sản"
+        },
+        {
+            "label": "Miến thuế",
+            "title": "Miến thuế",
+            "width": 1,
+            "source": "Thừa kế",
+            "target": "Tncn"
+        },
+        {
+            "label": "Cần đóng",
+            "title": "Cần đóng",
+            "width": 1,
+            "source": "... đồng",
+            "target": "Thuế tncn"
+        },
+        {
+            "label": "Quy định về",
+            "title": "Quy định về",
+            "width": 1,
+            "source": "Điều 1",
+            "target": "Mức giảm trừ gia cảnh"
+        },
+        {
+            "label": "Đối với",
+            "title": "Đối với",
+            "width": 1,
+            "source": "Mức giảm trừ",
+            "target": "Đối tượng nộp thuế"
+        },
+        {
+            "label": "Có mức lương trên",
+            "title": "Có mức lương trên",
+            "width": 1,
+            "source": "Người",
+            "target": "11 triệu đồng/tháng"
+        },
+        {
+            "label": "Cần nộp",
+            "title": "Cần nộp",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "Thu nhập tính thuế x thuế suất"
+        },
+        {
+            "label": "Phải nộp",
+            "title": "Phải nộp",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "15% thu nhập tính thuế"
+        },
+        {
+            "label": "Cần đóng",
+            "title": "Cần đóng",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "Đồng"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "Bản quyền nhượng quyền thương mại"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "Thuế từ chuyển nhượng bất động sản"
+        },
+        {
+            "label": "Đối với",
+            "title": "Đối với",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "Hộ kinh doanh"
+        },
+        {
+            "label": "Phải nộp",
+            "title": "Phải nộp",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "2000000"
+        },
+        {
+            "label": "Là",
+            "title": "Là",
+            "width": 1,
+            "source": "Thuế tncn",
+            "target": "Thừa kế quà tặng"
+        }
+    ]
+}
